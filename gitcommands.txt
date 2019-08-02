@@ -1,0 +1,22 @@
+comand to connect GitHub
+	-->	git config --global user.name "ramakrishnakanigolla"
+	-->	git config --global user.email ramakanigolla@gmail.com
+	-->	connect the local work directory
+	-->	by using ls and cd (ls command will show all files list)(cd command for change directory)
+	-->	for clone this comand is used git clone https://github.com/ramakrishnakanigolla/Testing
+	-->	After connecting change the directory and creat files in local work directory and done the task based on requirement	
+	-->	we have add the file one by one using( git add rktext.txt)git add filename.extention
+	-->	After adding we have to commit the files you created one by one by uisng below comand
+	-->	git commit -m "first commit" rktext.txt(git commit -m "Relavent Text" filename.extention)
+	-->	git push -u origin master
+
+
+Commands i used to day 
+
+->git log
+->git config --list
+->
+
+
+
+
